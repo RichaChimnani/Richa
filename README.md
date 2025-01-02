@@ -1,7 +1,7 @@
 # Hi 👋 I'm Richa
 
 
-A Data Detective with a penchant for crunching numbers and believes data talks.
+A Data Detective with a penchant for crunching numbers and transforming data into strategic decisions..
 
 
 🔭 Learn Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime. from: My Python Libraries Tutorials
